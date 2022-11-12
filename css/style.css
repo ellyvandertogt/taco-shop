@@ -157,9 +157,13 @@ body {
     letter-spacing: 0.1rem;
     text-shadow: 2px 2px 5px var(--BORDER-COLOR);
     position: absolute;
-    top: -100px; /*9.55*/
-
-
+    top: -100px;
+    left: 20px;
   }
 
+  @keyframes showWelcome {
+      0% {
+        
+      }
+  }
 
